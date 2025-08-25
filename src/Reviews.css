@@ -1,0 +1,17 @@
+.oreder-item{
+      padding-bottom: 33px;
+         display:flex;
+  justify-content:center;
+  align-items: center;
+     font-size: 48px;
+    color: white;
+}
+.photo-card{
+     display:flex;
+  justify-content:center;
+  align-items: center;
+ 
+}
+.card-reviews{
+     padding-right: 93px;
+}

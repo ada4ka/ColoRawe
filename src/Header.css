@@ -1,0 +1,32 @@
+.header{
+    background: url(./snickers.png)no-repeat center/cover ;
+    padding: 94px 0px 183px 156px ;
+}
+.header-subtitle{
+ font-size: 45px;  
+ color: white; 
+}
+.header-item{
+    color: white;
+    font-size: 72px;
+    padding-bottom: 12px;
+}
+.header-title{
+    font-size: 144px;
+    color: white;
+    padding-bottom: 5px;
+}
+.header-text{
+    font-size: 18px;
+    color: white;
+    width: 480px;
+    padding-bottom: 41px;
+}
+.header-btn{
+    width: 254px;
+    height: 67px;
+    border-radius: 10px;
+    color: white;
+    background: #8E32C6 ;
+    font-size: 24px;
+}

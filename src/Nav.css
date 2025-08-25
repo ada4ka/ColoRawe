@@ -1,0 +1,33 @@
+button{
+    background: none;
+    border: none;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 160px 14px 160px;
+    background:#012D63 ;
+}
+.nav-list{
+    display: flex;
+    column-gap: 29px;
+    list-style: none;
+}
+.nav-list-item{
+    color: #C7C7C7;
+    transition: all.3s;
+    cursor: pointer;
+    font-size: 24px;
+}
+.nav-lang-item{
+    color: #C7C7C7;
+    transition: all.3s;
+    cursor: pointer;
+    font-size: 24px;
+ padding-right: 10px;
+}
+.nav-list-item:hover,.nav-lang-item:hover{
+    color: white;
+}
