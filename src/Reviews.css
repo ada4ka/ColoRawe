@@ -6,19 +6,51 @@
      font-size: 48px;
     color: white;
 }
-.text-card{
-    position: absolute;
- 
-   
-}
+
 .photo-card{
-    position: relative;
      display:flex;
-  justify-content:center;
+  justify-content:space-around;
   align-items: center;
  
 }
+
 .card-reviews{
-  padding-right: 93px; 
+  width:255px ;
+  height:292px ;
+
+}
+.text-card{
+  margin-left: 18px;
+  margin-right: 9px;
+margin-top: 49px;
+   color: white;
+  font-size: 24px;
+}
+.data-card{
+  padding-top: 8px;
+  padding-left: 18px;
+  color: #D8D8D8;
+  font-size: 14px;
+}
+.card-self{
+  padding-top: 47px;
+
+}
+.avatar-card{
+   padding-left: 18px;
+   width: 31px;
+   height: 31px;
+}
+.name-card{
+
+  padding-left: 54px;
+  color: white;
+  font-size: 14px;
+}
+.together-card{
+
+   padding-left: 54px;
+  font-size: 12px;
+  color: #D8D8D8;
 }
 

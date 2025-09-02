@@ -7,7 +7,7 @@ function OrderSection(){
 return(
     <section className='section-order' 
      style={{
-        background: `url(${FonOrder})`,
+        background: `url(${FonOrder}) `,
         }}
     >
         <h4 className='order-item' >Order</h4>

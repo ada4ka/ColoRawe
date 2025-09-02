@@ -15,10 +15,12 @@ function Main() {
       Quality</h3>
       <img src={stars} alt="" className='main-card-img' />
      </div>
+     <span className='main-strip' >|</span>
      <div className="main-card">
       <img src={color} alt="" className='main-card-img' />
       <h3 id='id-main-card-title'  >Indelible paint</h3>
      </div>
+      <span className='main-strip' >|</span>
      <div className="main-card">
       <h3 className='main-card-title' >Fast 
       shipping</h3>
