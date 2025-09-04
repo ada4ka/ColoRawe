@@ -1,0 +1,46 @@
+.footer {
+    background: #021635;
+    padding: 20px; 
+}
+
+.questions, .email {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 10px; 
+}
+
+.questions:hover,
+.email:hover,
+.container-right-info {
+    cursor: pointer;
+}
+
+.info {
+    color: white;
+    font-size: 18px;
+}
+.container-right-info{
+    margin-top: 44px;
+}
+
+.container {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: flex-start; 
+    padding: 45px;
+}
+
+.container-right {
+    display: flex; 
+    flex-direction: column;
+}
+
+.container-left {
+    display: flex; 
+    flex-direction: column;
+}
+.footer-logo{
+    width: 108px;
+    height: 81px;
+   margin-top: 20px;
+}

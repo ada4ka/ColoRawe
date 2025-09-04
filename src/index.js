@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Nav from './Nav';
 import Header from './Header';
 import Main from './Main';
 import Reviews from './Reviews';
 import OrderSection from './OrderSection';
+import Footer from './Footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -16,7 +16,7 @@ root.render(
  <Main/>
  <Reviews/>
  <OrderSection/>
- 
+ <Footer/>
   </React.StrictMode>
 );
 

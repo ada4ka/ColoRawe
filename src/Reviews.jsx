@@ -26,8 +26,10 @@ worn off in a year.</p>
   <span className='data-card' >25.11</span>
   <div className="card-self">
     <img  className='avatar-card' src={John} alt="" />
-  <p className='name-card'> John Teylor</p>
+<div className="container-info">
+ <p className='name-card'> John Teylor</p>
   <p className='together-card' >With us from 2018</p>
+ </div>
   </div>
         </div>
       
@@ -40,7 +42,7 @@ They match all my clothes.</p>
   <span className='data-card' >05.01</span>
   <div className="card-self">
      <img className='avatar-card'  src={Eliza} alt="" />
-  <div className="div">
+  <div className="container-info">
      <p className='name-card' >Elizabeth Garsia </p>
    <p className='together-card' >With us from 2020</p>
   </div>
@@ -55,8 +57,10 @@ I use them actively, the paint is super.</p>
   <span className='data-card' >18.06</span>
 <div className="card-self">
      <img  className='avatar-card' src={Tom} alt="" />
+     <div className="container-info">
  <p className='name-card' > Tom Maquare</p>
  <p className='together-card' >With us from 2019</p>
+ </div>
 </div>
 </div>
       </div>

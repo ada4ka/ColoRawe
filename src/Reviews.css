@@ -33,24 +33,28 @@ margin-top: 49px;
   font-size: 14px;
 }
 .card-self{
-  padding-top: 47px;
-
+  display: flex;
+   align-items: flex-start;
+  margin-top: 47px;
+}
+.div{
+  display: flex;
+flex-direction: column;
 }
 .avatar-card{
-   padding-left: 18px;
+    margin-left: 18px; 
    width: 31px;
    height: 31px;
 }
 .name-card{
-
-  padding-left: 54px;
+    padding-left: 5px; 
   color: white;
   font-size: 14px;
 }
 .together-card{
-
-   padding-left: 54px;
+    padding-left: 5px; 
   font-size: 12px;
   color: #D8D8D8;
 }
+
 
